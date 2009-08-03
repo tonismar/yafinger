@@ -1,5 +1,7 @@
 package src;
 
+import java.util.Date;
+
 public class CartaoCredito {
  
 	public String financeira;
