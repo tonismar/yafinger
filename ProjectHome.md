@@ -1,0 +1,1 @@
+The Manager Finance that we really wanted. Every systems used showed us some deficiency. So, we trying fix all deficiency that we found into the new system.
